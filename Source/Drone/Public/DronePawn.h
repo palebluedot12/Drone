@@ -15,7 +15,7 @@ struct FInputActionValue;
 
 UCLASS()
 class DRONE_API ADronePawn : public APawn
-{¤¤
+{
 	GENERATED_BODY()
 
 public:
